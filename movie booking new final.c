@@ -811,6 +811,8 @@ void booking_fee(int seat_fee,int double_amount){
     }
 }
 
+# Main function
+
 
 int main() {
     char places[10][25] = {"1.Karur", "2.Namakkal","Velur"};
